@@ -1,0 +1,15 @@
+ipykernel
+numpy
+pandas
+scikit-learn
+flask
+memory_profiler
+streamlit
+matplotlib
+statsmodels
+seaborn
+torch
+transformers
+datasets
+pillow
+diffusers 
